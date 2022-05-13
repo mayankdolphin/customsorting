@@ -1,4 +1,4 @@
-### Custom Out of Stock Sorting for Magento 2
+# Custom Out of Stock Sorting for Magento 2
 
 It'll display out of stock products at the end of the catalog. Also, you can sort by `ASC` and `DESC`
 
