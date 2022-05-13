@@ -1,3 +1,7 @@
+### Custom Out of Stock Sorting for Magento 2
+
+It'll display out of stock products at the end of the catalog. Also, you can sort by `ASC` and `DESC`
+
 > **User this module in Magento 2.4 or later**
 ## Installation
 
@@ -28,3 +32,5 @@ bin/magento indexer:reindex
 You'll see output like this.
 
 ![customsorting_front](https://user-images.githubusercontent.com/59246854/168252860-22a41daf-62fc-46bb-ac63-3f5bc2386f8d.png)
+
+### Module created by [Dolphin Web Solution](https://dolphinwebsolution.com/) Developers. Explore more [Magento 2 Extensions](https://dolphinwebsolution.com/shop/magento-2-extensions.html)
