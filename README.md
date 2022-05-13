@@ -22,6 +22,9 @@ Go to terminal and run below command.
 ```base
 bin/magento c:c
 ```
+```base
+bin/magento indexer:reindex
+```
 You'll see output like this.
 
 ![customsorting_front](https://user-images.githubusercontent.com/59246854/168252860-22a41daf-62fc-46bb-ac63-3f5bc2386f8d.png)
