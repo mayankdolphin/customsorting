@@ -10,7 +10,7 @@ composer require mayankdolphin/magento2-module-customsorting
 bin/magento module:enable Dolphin_CustomSorting
 ```
 
-## Configuration? 
+## Configuration
 
 Go to `admin > store > configuration > Dolphin > Custom Sorting` and change the settings as per below screenshot.
 
